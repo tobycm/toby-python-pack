@@ -1,0 +1,30 @@
+{
+  "name": "toby-python-pack",
+  "displayName": "Toby Python Pack",
+  "description": "Toby Cm's Python Extensions",
+  "version": "0.0.1",
+  "publisher": "tobycm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobycm/toby-python-pack"
+  },
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "donjayamanne.python-environment-manager",
+    "evgeniypeshkov.syntax-highlighter",
+    "KevinRose.vsc-python-indent",
+    "magicstack.MagicPython",
+    "matangover.mypy",
+    "mgesbert.python-path",
+    "ms-pyright.pyright",
+    "ms-python.black-formatter",
+    "ms-python.isort",
+    "ms-python.python",
+    "njqdev.vscode-python-typehint"
+  ]
+}
