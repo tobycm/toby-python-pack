@@ -22,9 +22,9 @@
     "matangover.mypy",
     "mgesbert.python-path",
     "ms-pyright.pyright",
-    "ms-python.black-formatter",
     "ms-python.isort",
     "ms-python.python",
-    "njqdev.vscode-python-typehint"
+    "njqdev.vscode-python-typehint",
+    "TrungNgo.autoflake"
   ]
 }
