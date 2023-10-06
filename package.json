@@ -25,6 +25,7 @@
     "ms-python.isort",
     "ms-python.python",
     "njqdev.vscode-python-typehint",
-    "TrungNgo.autoflake"
+    "TrungNgo.autoflake",
+    "eeyore.yapf"
   ]
 }
