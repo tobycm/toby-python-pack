@@ -2,7 +2,7 @@
   "name": "toby-python-pack",
   "displayName": "Toby Python Pack",
   "description": "Toby Cm's Python Extensions",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "tobycm",
   "repository": {
     "type": "git",
